@@ -1,0 +1,21 @@
+{
+    "name": "funcionarios",
+    "version": "1.0.0",
+    "description": "tabela de funcionarios",
+    "main": "funcionarios.js",
+    "scripts": {
+        "start": "nodemon",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "tabelas",
+        "de",
+        "funcionario"
+    ],
+    "author": "andre luis",
+    "license": "ISC",
+    "dependencies": {},
+    "devDependencies": {
+        "axios": "0.17.1"
+    }
+}

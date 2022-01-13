@@ -1,0 +1,15 @@
+Sexta-feira,07/01/2022 das 22:20:00 as h+|-
+ # Node 
+    $ Explicar a visão Geral desde modulos.
+  # Sistemas de Modulos:
+     $ Explicar a materia
+     $ Software divido  em Camadá;
+     $ Aplicação Web Moderno
+        % É composta por varios arquivos
+        % que vai rodar com Web;
+        % Organizaçẽs em Camadá;
+     $ Aplicação Back End:
+        % Será necessário Organizar em pastas,arquivos;
+        % Não será necessário compacta-lo;
+  # Praticando...
+  
